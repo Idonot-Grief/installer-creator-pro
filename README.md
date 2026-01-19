@@ -1,2 +1,2 @@
 # installer-creator-pro
-An easy to use installer creator built in python.
+An easy to use installer creator built in python made for windows.
